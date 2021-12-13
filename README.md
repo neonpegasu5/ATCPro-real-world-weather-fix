@@ -11,6 +11,11 @@ I've included a patched DLL as well as the steps to patch the DLL manually since
 
 [Download wxSimulator.dll](./wxSimulator.dll)
 
+To install:
+- Make a backup of `wxSimulator.dll` (usually found in `C:\Program Files (x86)\Flag Mountain\ATCpro`)
+- Download the DLL provided above
+- Copy the downloaded DLL into your game folder (usually `C:\Program Files (x86)\Flag Mountain\ATCpro`)
+
 ## Manual DLL patch
 
 ### Environment setup and finding the DLL
